@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea Asíncrona</string>
+    <string name="txt1">Listo para empezar</string>
+    <string name="btn1">Empezar Tarea</string>
+    <string name="siesta">Dormiendo la siesta...</string>
+    <string name="btn2">Segunda Tarea</string>
+</resources>
